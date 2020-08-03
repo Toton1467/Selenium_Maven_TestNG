@@ -1,0 +1,7 @@
+ChromeDriver=/home/suvendu/Downloads/Softwares/chromedriver_linux64/chromedriver
+
+FirefoxDriver=/home/suvendu/Downloads/Softwares/geckodriver-v0.26.0-linux64/geckodriver
+
+URL1=https://www.olay.co.uk/en-gb
+URL2=https://www.olaz.de/de-de
+URL3=https://www.olay.es/es-es

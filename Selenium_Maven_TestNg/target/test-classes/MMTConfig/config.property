@@ -1,0 +1,5 @@
+ChromeDriver=/home/suvendu/Downloads/Softwares/chromedriver_linux64/chromedriver
+
+FirefoxDriver=/home/suvendu/Downloads/Softwares/geckodriver-v0.26.0-linux64/geckodriver
+
+URL=https://www.makemytrip.com/
